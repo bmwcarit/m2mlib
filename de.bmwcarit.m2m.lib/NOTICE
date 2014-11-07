@@ -1,0 +1,10 @@
+This project includes software developed by
+BMW Car IT GmbH (http://www.bmw-carit.de).
+
+Licensed under the terms of the Eclipse Public License v1.0
+which accompanies this distribution, and is available at
+http://www.eclipse.org/legal/epl-v10.html
+
+This project has dependencies to:
+  org.eclipse.xtend.lib under Eclipse Public License v1.0
+  org.eclipse.xtend.core under Eclipse Public License v1.0

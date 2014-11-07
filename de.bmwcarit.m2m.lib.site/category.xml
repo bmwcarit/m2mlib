@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.bmwcarit.m2m.lib.feature_0.1.0.qualifier.jar" id="de.bmwcarit.m2m.lib.feature" version="0.1.0.qualifier">
+      <category name="m2m-0.1.0"/>
+   </feature>
+   <category-def name="m2m-0.1.0" label="M2M Lib 0.1.0">
+      <description>
+         Contains the model-2-model transformation library.
+      </description>
+   </category-def>
+</site>

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Model 2 Model Transformation Library
+Bundle-SymbolicName: de.bmwcarit.m2m.lib
+Bundle-Version: 0.1.0.qualifier
+Bundle-Vendor: BMW Car IT GmbH
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.xtend.lib;bundle-version="[2.5.0,3.0.0)",
+ org.eclipse.xtend.core;bundle-version="[2.5.0,3.0.0)"
+Export-Package: de.bmwcarit.m2m.lib,
+ de.bmwcarit.m2m.lib.annotations
